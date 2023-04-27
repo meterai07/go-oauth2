@@ -1,5 +1,7 @@
 <h1>Example Output</h1>
-```{
+
+```
+{
   "id": "",
   "email": "",
   "verified_email": true,
